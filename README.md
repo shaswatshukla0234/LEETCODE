@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0169-majority-element) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0169-majority-element) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 ## Math
 |  |
 | ------- |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0844-backspace-string-compare) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
