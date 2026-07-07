@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
