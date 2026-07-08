@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0169-majority-element) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0049-group-anagrams) |
 | [0844-backspace-string-compare](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
