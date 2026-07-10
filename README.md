@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Dynamic Programming
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0169-majority-element) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -141,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
