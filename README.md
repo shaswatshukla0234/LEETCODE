@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
