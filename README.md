@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0169-majority-element) |
 | [0275-h-index-ii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0275-h-index-ii) |
+| [0542-01-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0931-minimum-falling-path-sum](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 ## Hash Table
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0542-01-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1260-shift-2d-grid) |
