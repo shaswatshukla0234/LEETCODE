@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Dynamic Programming
@@ -79,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1840-maximum-building-height](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Stack
 |  |
 | ------- |
