@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0169-majority-element) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0542-01-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
