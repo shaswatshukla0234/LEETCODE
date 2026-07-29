@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0169-majority-element) |
 | [0275-h-index-ii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0275-h-index-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0542-01-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0169-majority-element) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [1288-remove-covered-intervals](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sliding Window
