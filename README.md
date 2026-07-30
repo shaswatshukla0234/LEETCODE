@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sorting
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1840-maximum-building-height](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sliding Window
 |  |
