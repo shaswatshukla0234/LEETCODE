@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0877-stone-game) |
+| [0888-fair-candy-swap](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [0931-minimum-falling-path-sum](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0169-majority-element) |
+| [0888-fair-candy-swap](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
+| [0888-fair-candy-swap](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [1288-remove-covered-intervals](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0275-h-index-ii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0275-h-index-ii) |
 | [0875-koko-eating-bananas](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
