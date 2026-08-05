@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
+| [0692-top-k-frequent-words](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0877-stone-game) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0409-longest-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0888-fair-candy-swap](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0409-longest-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
+| [0692-top-k-frequent-words](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0888-fair-candy-swap](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [1288-remove-covered-intervals](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0169-majority-element) |
+| [0692-top-k-frequent-words](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
@@ -152,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -242,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0877-stone-game) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
