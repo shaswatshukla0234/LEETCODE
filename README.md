@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0275-h-index-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0542-01-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0542-01-matrix) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0692-top-k-frequent-words) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0409-longest-palindrome) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0888-fair-candy-swap](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0409-longest-palindrome) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
