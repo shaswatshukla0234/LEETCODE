@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0877-stone-game) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0049-group-anagrams) |
+| [0392-is-subsequence](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0692-top-k-frequent-words) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [2562-find-the-array-concatenation-value](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2562-find-the-array-concatenation-value) |
 ## Greedy
