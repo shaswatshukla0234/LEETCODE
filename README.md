@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0169-majority-element) |
+| [0228-summary-ranges](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0275-h-index-ii) |
 | [0436-find-right-interval](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0436-find-right-interval) |
