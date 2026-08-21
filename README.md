@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0542-01-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0409-longest-palindrome) |
+| [0594-longest-harmonious-subsequence](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0888-fair-candy-swap](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0888-fair-candy-swap) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0274-h-index) |
 | [0436-find-right-interval](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0594-longest-harmonious-subsequence](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0692-top-k-frequent-words) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
