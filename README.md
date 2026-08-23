@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0143-reorder-list) |
 | [0392-is-subsequence](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [2562-find-the-array-concatenation-value](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2562-find-the-array-concatenation-value) |
@@ -316,4 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0836-rectangle-overlap) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
