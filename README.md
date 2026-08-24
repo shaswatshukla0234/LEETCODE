@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0143-reorder-list) |
+| [0682-baseball-game](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
