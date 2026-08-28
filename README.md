@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2562-find-the-array-concatenation-value) |
 | [2574-left-and-right-sum-differences](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
