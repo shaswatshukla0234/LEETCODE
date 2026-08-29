@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -336,9 +337,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
