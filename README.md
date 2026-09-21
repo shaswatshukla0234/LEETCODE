@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0463-island-perimeter](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0542-01-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0079-word-search) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0463-island-perimeter](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0463-island-perimeter) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0143-reorder-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
@@ -392,10 +395,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Quickselect
 |  |
