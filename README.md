@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-increasing-decreasing-string](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1370-increasing-decreasing-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -416,5 +418,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaswatshukla0234/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
