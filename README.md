@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0152-maximum-product-subarray) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0079-word-search) |
 | [0392-is-subsequence](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0409-longest-palindrome) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/shaswatshukla0234/LEETCODE/tree/master/0844-backspace-string-compare) |
