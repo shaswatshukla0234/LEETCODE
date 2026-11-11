@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shaswatshukla0234/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shaswatshukla0234/LEETCODE/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sliding Window
 |  |
